@@ -47,11 +47,6 @@
     />
   </a>
 </p>
-  
-  
 
-<br/>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahra-rajabi&hide_border=true&layout=compact" align="left" />  
 
 
