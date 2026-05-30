@@ -1,7 +1,7 @@
 # <div align="center"> 👋 Hi, I'm Zahra </div>  
   
 
-### *<div align="center">🎓 Bioinformatics Master's Student | 🧠 Aspiring AI Engineer </div>*  
+### *<div align="center">🎓 Bioinformatics Master's Student </div>*  
   
 
 ##### <div align="center">Transitioning from Front-End Development to Artificial Intelligence and Data Science 💻 </div>  
